@@ -13,23 +13,37 @@ The Hangman Game is a console-based Python application where the player tries to
 FEATURES 
 
 ✓Random word selection
+
 ✓Letter-by-letter guessing
+
 ✓Limited number of attempts
+
 ✓Displays correctly guessed letters
+
 ✓Tracks incorrect guesses
+
 ✓Win/Loss result display
+
 ✓User-friendly console interface
 
 CONCEPTS USED
 
 ✓Variables
+
 ✓Data Types
+
 ✓Lists
+
 ✓Strings
+
 ✓Loops (while, for)
+
 ✓Conditional Statements (if, else)
+
 ✓Functions
+
 ✓User Input (input())
+
 ✓Random Module (random)
 
 CONCLUSION 
